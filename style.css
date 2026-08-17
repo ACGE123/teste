@@ -3,8 +3,8 @@
     --bg2:#10172d;
     --card:rgba(255,255,255,.06);
  
-    --primary:#7c4dff;
-    --secondary:#00c2ff;
+    --primary:#450866;
+    --secondary:#8c23c5de;
  
     --text:#ffffff;
     --text2:#aeb5c8;
@@ -44,7 +44,7 @@ body::before{
     inset:0;
  
     background:
-    radial-gradient(circle,#7c4dff22 1px,transparent 1px);
+    radial-gradient(circle,#591071 1px,transparent 1px);
  
     background-size:45px 45px;
  
@@ -79,7 +79,7 @@ header{
  
     backdrop-filter:blur(18px);
  
-    background:rgba(7,11,23,.75);
+    background:#3d094f85;
  
     border-bottom:1px solid rgba(255,255,255,.05);
 }
@@ -209,7 +209,7 @@ nav{
  
 .buttons{
  
-    display:flex;
+    display:fixed;
  
     gap:18px;
  
