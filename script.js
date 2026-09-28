@@ -1,0 +1,2 @@
+let bil
+console.log
